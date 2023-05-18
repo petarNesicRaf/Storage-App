@@ -1,0 +1,13 @@
+rs\rafstorage\exceptions\DownloadException.class
+rs\rafstorage\exceptions\RenameException.class
+rs\rafstorage\exceptions\NumberOfFilesException.class
+rs\rafstorage\exceptions\UnsupportedExtensionException.class
+rs\rafstorage\handler\StorageManager.class
+rs\rafstorage\enumeration\SortingType.class
+rs\rafstorage\exceptions\ElementNotFoundException.class
+rs\rafstorage\handler\StorageHandler.class
+rs\rafstorage\exceptions\ElementNotCreatedException.class
+rs\rafstorage\exceptions\ElementNotMovedException.class
+rs\rafstorage\exceptions\NotEnoughSpaceException.class
+rs\rafstorage\exceptions\RootDirectoryException.class
+rs\rafstorage\exceptions\ElementNotDeletedException.class

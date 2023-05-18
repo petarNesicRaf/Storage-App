@@ -1,0 +1,16 @@
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\ElementNotDeletedException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\handler\package-info.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\UnsupportedExtensionException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\handler\StorageHandler.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\enumeration\package-info.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\package-info.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\ElementNotCreatedException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\NumberOfFilesException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\NotEnoughSpaceException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\RenameException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\DownloadException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\handler\StorageManager.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\enumeration\SortingType.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\ElementNotFoundException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\ElementNotMovedException.java
+C:\Users\T450s\Downloads\file-storage-handler-specification\src\main\java\rs\rafstorage\exceptions\RootDirectoryException.java
